@@ -2,16 +2,16 @@ module.exports = {
   /**
    * Output
    */
-  blogTitle: 'Unknow Me',
-  blogDescription: "Viko's Blog",
+  blogTitle: "Zack Zhao's Blog",
+  blogDescription: "Zack Zhao's Blog",
   blogAuthor: 'viko16',
-  blogKeywords: 'Unknow Me, viko16, vue-ghpages-blog, 博客, vue',
+  blogKeywords: 'Zack Zhao, zack4coding,zackzhao4coding.com, vue-ghpages-blog, 博客, vue',
   favicon: './static/favicon.png',
 
   /**
    * API
    */
-  repo: 'viko16/writings', // Which repository you stored the posts
+  repo: 'zack4coding/articles', // Which repository you stored the posts
   path: 'posts',
   branch: 'master'
 }
